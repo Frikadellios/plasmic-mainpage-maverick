@@ -1,9 +1,9 @@
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
-
+yarn add three, yarn add -D @types/three
 ## Getting Started
 
 First, run the development server:
-
+Cancel changes
 ```bash
 npm run dev
 ```
